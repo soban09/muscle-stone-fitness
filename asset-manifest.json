@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/muscle-stone-fitness/static/css/main.fe6cc419.chunk.css",
+    "main.js": "/muscle-stone-fitness/static/js/main.096e97b8.chunk.js",
+    "main.js.map": "/muscle-stone-fitness/static/js/main.096e97b8.chunk.js.map",
+    "runtime-main.js": "/muscle-stone-fitness/static/js/runtime-main.33df2c34.js",
+    "runtime-main.js.map": "/muscle-stone-fitness/static/js/runtime-main.33df2c34.js.map",
+    "static/js/2.54a5fde2.chunk.js": "/muscle-stone-fitness/static/js/2.54a5fde2.chunk.js",
+    "static/js/2.54a5fde2.chunk.js.map": "/muscle-stone-fitness/static/js/2.54a5fde2.chunk.js.map",
+    "index.html": "/muscle-stone-fitness/index.html",
+    "static/css/main.fe6cc419.chunk.css.map": "/muscle-stone-fitness/static/css/main.fe6cc419.chunk.css.map",
+    "static/js/2.54a5fde2.chunk.js.LICENSE.txt": "/muscle-stone-fitness/static/js/2.54a5fde2.chunk.js.LICENSE.txt",
+    "static/media/1.92e37e41.svg": "/muscle-stone-fitness/static/media/1.92e37e41.svg",
+    "static/media/2.c4a826b2.svg": "/muscle-stone-fitness/static/media/2.c4a826b2.svg",
+    "static/media/3.b8c301f9.svg": "/muscle-stone-fitness/static/media/3.b8c301f9.svg",
+    "static/media/4.ca886c08.svg": "/muscle-stone-fitness/static/media/4.ca886c08.svg",
+    "static/media/index.css": "/muscle-stone-fitness/static/media/offer.1cafdcd5.png",
+    "static/media/coache-1.941e59c7.jpg": "/muscle-stone-fitness/static/media/coache-1.941e59c7.jpg",
+    "static/media/map.26b8e935.png": "/muscle-stone-fitness/static/media/map.26b8e935.png",
+    "static/media/muscle-stone.3525de4d.jpeg": "/muscle-stone-fitness/static/media/muscle-stone.3525de4d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33df2c34.js",
+    "static/js/2.54a5fde2.chunk.js",
+    "static/css/main.fe6cc419.chunk.css",
+    "static/js/main.096e97b8.chunk.js"
+  ]
+}
